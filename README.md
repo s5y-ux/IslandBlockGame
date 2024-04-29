@@ -1,2 +1,2 @@
 # IslandBlockGame
-I need to get 20 testers...
+Make a description tommorow
